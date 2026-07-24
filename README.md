@@ -1,5 +1,5 @@
 # D-ARCADE-Trolightcycle
-# Tron Light Cycle
+This project is one of the games from the side branch of project DILARA called: D-Arcade
 
 A Python/pygame prototype of the classic Tron light cycle arena game — grid-locked movement, permanent light-trail walls, and a from-scratch Voronoi-based AI opponent. Includes a standalone AI-vs-AI test harness for tuning bot behavior outside of actual gameplay.
 
